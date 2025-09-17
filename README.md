@@ -1,4 +1,4 @@
-# Davi Almeida – Pesquisador Graduando em Ciência da Computação
+# Davi Almeida – Pesquisador de Econofísica
 
 ![Python](https://img.shields.io/badge/Python-Competente-yellow)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Competente-orange)
