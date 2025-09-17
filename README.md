@@ -11,7 +11,7 @@ Atualmente pesquiso em melhorias no modelo de **Markowitz** e modelos de **siste
 
 - Formação: Graduando Ciência da Computação 
 - Linguagens de programação: **Python, MATLAB**  
-- Competências: Econofísica, Otimização, Sistemas complexos, Sistemas Dinâmicos Não-Lineares, Processos Estocásticos  
+- Competências: Econofísica, Otimização, Sistemas complexos, Sistemas Dinâmicos não lineares, Processos Estocásticos  
 
 ---
 
@@ -27,7 +27,7 @@ Atualmente pesquiso em melhorias no modelo de **Markowitz** e modelos de **siste
 
 - **Linguagens**:Python, MATLAB
 - **Bibliotecas/Frameworks**: NumPy, SciPy, Matplotlib, Seaborn, Pandas  
-- **Áreas de especialização**: Econofísica, Otimização, Sistemas Complexos, Sistemas Dinâmicos Não-Lineares, Processos Estocásticos
+- **Áreas de especialização**: Econofísica, Otimização, Sistemas Complexos, Sistemas Dinâmicos não lineares, Processos Estocásticos
 
 ---
 
